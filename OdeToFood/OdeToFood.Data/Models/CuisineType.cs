@@ -4,11 +4,14 @@ using System.Text;
 
 namespace OdeToFood.Data.Models
 {
-    public enum CuisinType
+    public enum CuisineType
     {
         None,
         Italian,
         Indian,
-        French
+        French,
+        Mediterranean,
+        Nepali,
+        Mexican
     }
 }
